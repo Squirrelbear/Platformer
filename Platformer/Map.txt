@@ -1,0 +1,23 @@
+Player 100 450 40 40
+Block 0 0 800 40
+Block 0 40 40 560
+Block 760 40 40 560
+GrassBlock 40 560 720 40
+GrassBlock 500 500 100 70
+GrassBlock 250 450 100 40
+GrassBlock 250 330 100 40
+GrassBlock 40 400 100 40
+GrassBlock 660 300 100 40
+GrassBlock 710 230 50 80
+GrassBlock 500 150 100 40
+GrassBlock 40 130 100 40
+VictoryFlag 50 80
+Spikes 400 540 100 20
+Spikes 600 540 160 20
+Spikes 140 150 60 20
+Collectible 350 350
+Collectible 650 400
+Collectible 200 80
+Collectible 250 100
+Collectible 300 80
+Collectible 350 100
