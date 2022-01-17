@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Platformer game works. 
 
+- ([Youtube Demo](https://youtu.be/ctRTWqbMZ9g))
+
 # 1.3 The Rules of Platformer
 
 The rules implemented for this platformer can be summarised by the following list.
